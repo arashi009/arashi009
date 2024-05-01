@@ -1,1 +1,1 @@
-I write mid login pages 
+mid comp sci student
