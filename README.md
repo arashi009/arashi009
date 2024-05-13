@@ -1,1 +1,2 @@
-mid comp sci student
+Year 3 Computer Science
+Interested in iOS/Android mobile development
